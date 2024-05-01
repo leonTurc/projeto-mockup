@@ -1,0 +1,21 @@
+#fim{
+    display: flex;
+    color: white;
+}
+#end {
+    text-align: center;
+    background-color: var(--color-primary-5);
+    margin: 10px;
+    padding: 5px;
+    border: 6px solid var(--color-primary-1);
+    border-radius: 10px;
+}
+#conclusao{
+    background-color: var(--color-primary-5);
+}
+#consideracoes{
+    background-color: var(--color-primary-5);
+}
+#bye{
+    background-color: var(--color-primary-5);
+}

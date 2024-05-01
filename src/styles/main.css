@@ -1,0 +1,111 @@
+#start{
+    color: white;
+}
+
+#poseclassic{
+    width: 400px;
+    height: 300px;
+}
+
+#poseopen{
+    width: 400px;
+    height: 300px;
+}
+
+#manspose{
+    width: 400px;
+    height: 300px;
+}
+
+#historia{
+    background-color: var(--color-primary-1);
+    margin: 15px;
+    padding: 5px;
+    text-align: center;
+    border-radius: 30px;
+}
+#historia p{
+    background-color: var(--color-primary-1);
+}
+#qual{
+    background-color: var(--color-primary-1);
+}
+
+#middle{
+    display: flex;
+    color: white;
+}
+
+#classic{
+    background-color: var(--color-primary-3);
+    text-align: center;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 30px;
+}
+
+#classic p{
+    background-color: var(--color-primary-3);
+}
+
+#classictitulo {
+    background-color: var(--color-primary-3);
+}
+#classictitulo span{
+    background-color: var(--color-primary-3);
+    color: var(--color-neutral-2);
+    -webkit-text-stroke: 1px var(--color-primary-6);
+}
+#obclassic{
+    background-color: var(--color-primary-3);
+}
+#obclasdesc{
+    background-color: var(--color-primary-3);
+}
+
+#open{
+    background-color: var(--color-primary-3);
+    text-align: center;
+    padding: 5px;
+    margin: 10px;
+    border-radius: 30px;
+}
+#opentitulo span{
+    background-color: var(--color-primary-3);
+    color: var(--color-neutral-2);
+    -webkit-text-stroke: 1px var(--color-primary-6);
+}
+#open p{
+    background-color: var(--color-primary-3);
+}
+
+#opentitulo{
+    background-color: var(--color-primary-3);
+}
+#obopen{
+    background-color: var(--color-primary-3);
+}
+
+#mans{
+    text-align: center;
+    background-color: var(--color-primary-3);
+    padding: 5px;
+    margin: 10px;
+    border-radius: 30px;
+}
+
+#mans p{
+    background-color: var(--color-primary-3);
+}
+
+#mans h1{
+    background-color: var(--color-primary-3);
+}
+#mans span{
+    background-color: var(--color-primary-3);
+    -webkit-text-stroke: 1px var(--color-primary-6);
+}
+
+#mans h3{
+    background-color: var(--color-primary-3);
+}
